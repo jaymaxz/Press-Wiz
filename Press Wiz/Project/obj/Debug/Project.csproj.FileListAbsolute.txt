@@ -1,0 +1,59 @@
+C:\Users\USER\Desktop\Mega_Cafe\Project\Project\bin\Debug\Project.exe.config
+C:\Users\USER\Desktop\Mega_Cafe\Project\Project\bin\Debug\Project.exe
+C:\Users\USER\Desktop\Mega_Cafe\Project\Project\bin\Debug\Project.pdb
+C:\Users\USER\Desktop\Mega_Cafe\Project\Project\obj\Debug\Project.Login.resources
+C:\Users\USER\Desktop\Mega_Cafe\Project\Project\obj\Debug\Project.Properties.Resources.resources
+C:\Users\USER\Desktop\Mega_Cafe\Project\Project\obj\Debug\Project.csproj.GenerateResource.Cache
+C:\Users\USER\Desktop\Mega_Cafe\Project\Project\obj\Debug\Project.exe
+C:\Users\USER\Desktop\Mega_Cafe\Project\Project\obj\Debug\Project.pdb
+C:\Users\USER\Desktop\Mega_Cafe\Project\Project\obj\Debug\Project.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\Mega_Cafe\Project\Project\obj\Debug\Project.Main.resources
+C:\Users\USER\Desktop\Mega_Cafe\Project\Project\obj\Debug\Project.CustomerMain.resources
+H:\Mega_Cafe\Project\Project\bin\Debug\Project.exe.config
+H:\Mega_Cafe\Project\Project\obj\Debug\Project.exe
+H:\Mega_Cafe\Project\Project\obj\Debug\Project.pdb
+C:\Users\USER\Desktop\Mega_Cafe\Project\Project\obj\Debug\Project.Users.resources
+C:\Users\USER\Desktop\Mega_Cafe\Project\Project\obj\Debug\Project.FindForm.resources
+C:\Users\USER\Desktop\Mega_Cafe\Project\Project\obj\Debug\Project.ChangePassword.resources
+C:\Users\USER\Desktop\Mega_Cafe\Project\Project\obj\Debug\Project.ReEnterPassword.resources
+C:\Users\USER\Desktop\Mega_Cafe\Project\Project\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\USER\Desktop\Mega_Cafe\Project\Project\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\USER\Desktop\Mega_Cafe\Project\Project\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\USER\Desktop\Mega_Cafe\Project\Project\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\USER\Desktop\Mega_Cafe\Project\Project\obj\Debug\Project.csproj.ResolveComReference.cache
+C:\Users\USER\Desktop\Mega_Cafe\Project\Project\obj\Debug\Project.MonthlyReportForm.resources
+C:\Users\USER\Desktop\Mega_Cafe\Project\Project\obj\Debug\Project.DailyReportForm.resources
+C:\Users\USER\Desktop\Mega_Cafe\Project\Project\obj\Debug\Project.AddPages.resources
+C:\Users\USER\Desktop\Mega_Cafe\Project\Project\obj\Debug\Project.StockStatus.resources
+C:\Users\USER\Desktop\Mega_Cafe\Project\Project\obj\Debug\Project.JobForm.resources
+D:\BScSE_other\02_01\SENG 21593 - Interactive Application Design and Development\Project\Project\bin\Debug\Project.exe.config
+D:\BScSE_other\02_01\SENG 21593 - Interactive Application Design and Development\Project\Project\obj\Debug\Interop.AcroPDFLib.dll
+D:\BScSE_other\02_01\SENG 21593 - Interactive Application Design and Development\Project\Project\obj\Debug\AxInterop.AcroPDFLib.dll
+D:\BScSE_other\02_01\SENG 21593 - Interactive Application Design and Development\Project\Project\obj\Debug\Project.csproj.ResolveComReference.cache
+D:\BScSE_other\02_01\SENG 21593 - Interactive Application Design and Development\Project\Project\obj\Debug\Project.exe
+D:\BScSE_other\02_01\SENG 21593 - Interactive Application Design and Development\Project\Project\obj\Debug\Project.pdb
+D:\BScSE_other\02_01\SENG 21593 - Interactive Application Design and Development\Project\Project\bin\Debug\Project.exe.manifest
+D:\BScSE_other\02_01\SENG 21593 - Interactive Application Design and Development\Project\Project\bin\Debug\Project.application
+D:\BScSE_other\02_01\SENG 21593 - Interactive Application Design and Development\Project\Project\bin\Debug\Project.exe
+D:\BScSE_other\02_01\SENG 21593 - Interactive Application Design and Development\Project\Project\bin\Debug\Project.pdb
+D:\BScSE_other\02_01\SENG 21593 - Interactive Application Design and Development\Project\Project\bin\Debug\Interop.AcroPDFLib.dll
+D:\BScSE_other\02_01\SENG 21593 - Interactive Application Design and Development\Project\Project\bin\Debug\AxInterop.AcroPDFLib.dll
+D:\BScSE_other\02_01\SENG 21593 - Interactive Application Design and Development\Project\Project\obj\Debug\Project.csprojResolveAssemblyReference.cache
+D:\BScSE_other\02_01\SENG 21593 - Interactive Application Design and Development\Project\Project\obj\Debug\Project.AddPages.resources
+D:\BScSE_other\02_01\SENG 21593 - Interactive Application Design and Development\Project\Project\obj\Debug\Project.ChangePassword.resources
+D:\BScSE_other\02_01\SENG 21593 - Interactive Application Design and Development\Project\Project\obj\Debug\Project.ChangePW.resources
+D:\BScSE_other\02_01\SENG 21593 - Interactive Application Design and Development\Project\Project\obj\Debug\Project.CustomerMain.resources
+D:\BScSE_other\02_01\SENG 21593 - Interactive Application Design and Development\Project\Project\obj\Debug\Project.DailyReportForm.resources
+D:\BScSE_other\02_01\SENG 21593 - Interactive Application Design and Development\Project\Project\obj\Debug\Project.FindForm.resources
+D:\BScSE_other\02_01\SENG 21593 - Interactive Application Design and Development\Project\Project\obj\Debug\Project.ImageForm.resources
+D:\BScSE_other\02_01\SENG 21593 - Interactive Application Design and Development\Project\Project\obj\Debug\Project.JobForm.resources
+D:\BScSE_other\02_01\SENG 21593 - Interactive Application Design and Development\Project\Project\obj\Debug\Project.MonthlyReportForm.resources
+D:\BScSE_other\02_01\SENG 21593 - Interactive Application Design and Development\Project\Project\obj\Debug\Project.ReEnterPassword.resources
+D:\BScSE_other\02_01\SENG 21593 - Interactive Application Design and Development\Project\Project\obj\Debug\Project.StockStatus.resources
+D:\BScSE_other\02_01\SENG 21593 - Interactive Application Design and Development\Project\Project\obj\Debug\Project.Users.resources
+D:\BScSE_other\02_01\SENG 21593 - Interactive Application Design and Development\Project\Project\obj\Debug\Project.Login.resources
+D:\BScSE_other\02_01\SENG 21593 - Interactive Application Design and Development\Project\Project\obj\Debug\Project.Main.resources
+D:\BScSE_other\02_01\SENG 21593 - Interactive Application Design and Development\Project\Project\obj\Debug\Project.Properties.Resources.resources
+D:\BScSE_other\02_01\SENG 21593 - Interactive Application Design and Development\Project\Project\obj\Debug\Project.csproj.GenerateResource.Cache
+D:\BScSE_other\02_01\SENG 21593 - Interactive Application Design and Development\Project\Project\obj\Debug\Project.exe.manifest
+D:\BScSE_other\02_01\SENG 21593 - Interactive Application Design and Development\Project\Project\obj\Debug\Project.application

@@ -1,0 +1,87 @@
+C:\Users\USER\Desktop\Mega_Cafe\Project\Project\bin\Release\Project.exe.config
+C:\Users\USER\Desktop\Mega_Cafe\Project\Project\obj\Release\Interop.AcroPDFLib.dll
+C:\Users\USER\Desktop\Mega_Cafe\Project\Project\obj\Release\AxInterop.AcroPDFLib.dll
+C:\Users\USER\Desktop\Mega_Cafe\Project\Project\obj\Release\Project.csproj.ResolveComReference.cache
+C:\Users\USER\Desktop\Mega_Cafe\Project\Project\bin\Release\Project.exe
+C:\Users\USER\Desktop\Mega_Cafe\Project\Project\bin\Release\Project.pdb
+C:\Users\USER\Desktop\Mega_Cafe\Project\Project\bin\Release\Interop.AcroPDFLib.dll
+C:\Users\USER\Desktop\Mega_Cafe\Project\Project\bin\Release\AxInterop.AcroPDFLib.dll
+C:\Users\USER\Desktop\Mega_Cafe\Project\Project\obj\Release\Project.AddPages.resources
+C:\Users\USER\Desktop\Mega_Cafe\Project\Project\obj\Release\Project.ChangePassword.resources
+C:\Users\USER\Desktop\Mega_Cafe\Project\Project\obj\Release\Project.CustomerMain.resources
+C:\Users\USER\Desktop\Mega_Cafe\Project\Project\obj\Release\Project.DailyReportForm.resources
+C:\Users\USER\Desktop\Mega_Cafe\Project\Project\obj\Release\Project.FindForm.resources
+C:\Users\USER\Desktop\Mega_Cafe\Project\Project\obj\Release\Project.JobForm.resources
+C:\Users\USER\Desktop\Mega_Cafe\Project\Project\obj\Release\Project.MonthlyReportForm.resources
+C:\Users\USER\Desktop\Mega_Cafe\Project\Project\obj\Release\Project.ReEnterPassword.resources
+C:\Users\USER\Desktop\Mega_Cafe\Project\Project\obj\Release\Project.StockStatus.resources
+C:\Users\USER\Desktop\Mega_Cafe\Project\Project\obj\Release\Project.Users.resources
+C:\Users\USER\Desktop\Mega_Cafe\Project\Project\obj\Release\Project.Login.resources
+C:\Users\USER\Desktop\Mega_Cafe\Project\Project\obj\Release\Project.Main.resources
+C:\Users\USER\Desktop\Mega_Cafe\Project\Project\obj\Release\Project.Properties.Resources.resources
+C:\Users\USER\Desktop\Mega_Cafe\Project\Project\obj\Release\Project.csproj.GenerateResource.Cache
+C:\Users\USER\Desktop\Mega_Cafe\Project\Project\obj\Release\Project.exe
+C:\Users\USER\Desktop\Mega_Cafe\Project\Project\obj\Release\Project.pdb
+C:\Users\USER\Desktop\Mega_Cafe\Project\Project\obj\Release\Project.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\Mega_Cafe\Project\Project\obj\Release\Project.ImageForm.resources
+C:\Users\USER\Desktop\Project\Project\bin\Release\Project.exe.config
+C:\Users\USER\Desktop\Project\Project\obj\Release\Interop.AcroPDFLib.dll
+C:\Users\USER\Desktop\Project\Project\obj\Release\AxInterop.AcroPDFLib.dll
+C:\Users\USER\Desktop\Project\Project\obj\Release\Project.csproj.ResolveComReference.cache
+C:\Users\USER\Desktop\Project\Project\obj\Release\Project.exe
+C:\Users\USER\Desktop\Project\Project\obj\Release\Project.pdb
+C:\Users\USER\Desktop\Project\Project\obj\Release\Project.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\Project\Project\obj\Release\Project.AddPages.resources
+C:\Users\USER\Desktop\Project\Project\obj\Release\Project.ChangePassword.resources
+C:\Users\USER\Desktop\Project\Project\obj\Release\Project.CustomerMain.resources
+C:\Users\USER\Desktop\Project\Project\obj\Release\Project.DailyReportForm.resources
+C:\Users\USER\Desktop\Project\Project\obj\Release\Project.FindForm.resources
+C:\Users\USER\Desktop\Project\Project\obj\Release\Project.ImageForm.resources
+C:\Users\USER\Desktop\Project\Project\obj\Release\Project.JobForm.resources
+C:\Users\USER\Desktop\Project\Project\obj\Release\Project.MonthlyReportForm.resources
+C:\Users\USER\Desktop\Project\Project\obj\Release\Project.ReEnterPassword.resources
+C:\Users\USER\Desktop\Project\Project\obj\Release\Project.StockStatus.resources
+C:\Users\USER\Desktop\Project\Project\obj\Release\Project.Users.resources
+C:\Users\USER\Desktop\Project\Project\obj\Release\Project.Login.resources
+C:\Users\USER\Desktop\Project\Project\obj\Release\Project.Main.resources
+C:\Users\USER\Desktop\Project\Project\obj\Release\Project.Properties.Resources.resources
+C:\Users\USER\Desktop\Project\Project\obj\Release\Project.csproj.GenerateResource.Cache
+C:\Users\USER\Desktop\Project\Project\bin\Release\Project.exe
+C:\Users\USER\Desktop\Project\Project\bin\Release\Project.pdb
+C:\Users\USER\Desktop\Project\Project\bin\Release\Interop.AcroPDFLib.dll
+C:\Users\USER\Desktop\Project\Project\bin\Release\AxInterop.AcroPDFLib.dll
+C:\Users\USER\Desktop\Project\Project\bin\Release\Project.exe.manifest
+C:\Users\USER\Desktop\Project\Project\bin\Release\Project.application
+C:\Users\USER\Desktop\Project\Project\obj\Release\Project.exe.manifest
+C:\Users\USER\Desktop\Project\Project\obj\Release\Project.application
+C:\Users\USER\Desktop\Project\Project\obj\Release\Project.ChangePW.resources
+D:\BScSE_other\02_01\SENG 21593 - Interactive Application Design and Development\Project\Project\bin\Release\Project.exe.config
+D:\BScSE_other\02_01\SENG 21593 - Interactive Application Design and Development\Project\Project\bin\Release\Project.exe.manifest
+D:\BScSE_other\02_01\SENG 21593 - Interactive Application Design and Development\Project\Project\bin\Release\Project.application
+D:\BScSE_other\02_01\SENG 21593 - Interactive Application Design and Development\Project\Project\bin\Release\Project.exe
+D:\BScSE_other\02_01\SENG 21593 - Interactive Application Design and Development\Project\Project\bin\Release\Project.pdb
+D:\BScSE_other\02_01\SENG 21593 - Interactive Application Design and Development\Project\Project\bin\Release\Interop.AcroPDFLib.dll
+D:\BScSE_other\02_01\SENG 21593 - Interactive Application Design and Development\Project\Project\bin\Release\AxInterop.AcroPDFLib.dll
+D:\BScSE_other\02_01\SENG 21593 - Interactive Application Design and Development\Project\Project\obj\Release\Interop.AcroPDFLib.dll
+D:\BScSE_other\02_01\SENG 21593 - Interactive Application Design and Development\Project\Project\obj\Release\AxInterop.AcroPDFLib.dll
+D:\BScSE_other\02_01\SENG 21593 - Interactive Application Design and Development\Project\Project\obj\Release\Project.csproj.ResolveComReference.cache
+D:\BScSE_other\02_01\SENG 21593 - Interactive Application Design and Development\Project\Project\obj\Release\Project.AddPages.resources
+D:\BScSE_other\02_01\SENG 21593 - Interactive Application Design and Development\Project\Project\obj\Release\Project.ChangePassword.resources
+D:\BScSE_other\02_01\SENG 21593 - Interactive Application Design and Development\Project\Project\obj\Release\Project.ChangePW.resources
+D:\BScSE_other\02_01\SENG 21593 - Interactive Application Design and Development\Project\Project\obj\Release\Project.CustomerMain.resources
+D:\BScSE_other\02_01\SENG 21593 - Interactive Application Design and Development\Project\Project\obj\Release\Project.DailyReportForm.resources
+D:\BScSE_other\02_01\SENG 21593 - Interactive Application Design and Development\Project\Project\obj\Release\Project.FindForm.resources
+D:\BScSE_other\02_01\SENG 21593 - Interactive Application Design and Development\Project\Project\obj\Release\Project.ImageForm.resources
+D:\BScSE_other\02_01\SENG 21593 - Interactive Application Design and Development\Project\Project\obj\Release\Project.JobForm.resources
+D:\BScSE_other\02_01\SENG 21593 - Interactive Application Design and Development\Project\Project\obj\Release\Project.MonthlyReportForm.resources
+D:\BScSE_other\02_01\SENG 21593 - Interactive Application Design and Development\Project\Project\obj\Release\Project.ReEnterPassword.resources
+D:\BScSE_other\02_01\SENG 21593 - Interactive Application Design and Development\Project\Project\obj\Release\Project.StockStatus.resources
+D:\BScSE_other\02_01\SENG 21593 - Interactive Application Design and Development\Project\Project\obj\Release\Project.Users.resources
+D:\BScSE_other\02_01\SENG 21593 - Interactive Application Design and Development\Project\Project\obj\Release\Project.Login.resources
+D:\BScSE_other\02_01\SENG 21593 - Interactive Application Design and Development\Project\Project\obj\Release\Project.Main.resources
+D:\BScSE_other\02_01\SENG 21593 - Interactive Application Design and Development\Project\Project\obj\Release\Project.Properties.Resources.resources
+D:\BScSE_other\02_01\SENG 21593 - Interactive Application Design and Development\Project\Project\obj\Release\Project.csproj.GenerateResource.Cache
+D:\BScSE_other\02_01\SENG 21593 - Interactive Application Design and Development\Project\Project\obj\Release\Project.exe.manifest
+D:\BScSE_other\02_01\SENG 21593 - Interactive Application Design and Development\Project\Project\obj\Release\Project.application
+D:\BScSE_other\02_01\SENG 21593 - Interactive Application Design and Development\Project\Project\obj\Release\Project.exe
+D:\BScSE_other\02_01\SENG 21593 - Interactive Application Design and Development\Project\Project\obj\Release\Project.pdb
